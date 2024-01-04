@@ -1,11 +1,15 @@
 # belly-button-challenge
-belly-button-challenge
 
-# Pymaceuticals
-Pymaceuticals : Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications.
+This project is an interactive dashboard to explore the Belly Button Biodiversity dataset Links to an external site. "https://robdunnlab.com/projects/belly-button-biodiversity/", which catalogs the microbes that colonize human navels.
 
 # Project Title 
-The purpose of this study is to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+
+The purpose of this project is to build interactive dashboard to explore the Belly Button Biodiversity.
+
+Build Dashboard as below.
+
+![image](https://github.com/mamathaetikyala/belly-button-challenge/assets/144495805/0e5c1f3f-7852-4fc0-98b7-39e2b9d30855)
+
 
 ## Table of Contents
 
@@ -16,22 +20,22 @@ The purpose of this study is to compare the performance of Pymaceuticals’ drug
 - [Contributing](#contributing)
 
 ## About
-The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens. 
-Python code generates all of the tables and figures needed for the technical report of the clinical study and a top-level summary of the study results.
+
+he purpose of this project is to build interactive dashboard to explore the Belly Button Biodiversity.
 
 ## Getting Started
-Open file in Jupyternotebook. Instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+Run index.html in broswer.
 
 ## Installing
-Python 3.x.x version to be installed.
-Python Packages to be installed :Numpy, pandas, matplotlib and scipy.
-Jupyter notebook either installed in local machine or Cloud version of Jupyter notebok.
+
+Java Script files "app.js" is needed.
 
 ## Usage
-Maintain raw data Source files "Mouse_metadata.csv" and "Study_results.csv" in "data" folder.
-Goto Juyter Notebook and import jupyter source file pymaceuticals.ipynb.
-Run all Nodes.
-Results: Observed on Canvas of Jupyter Notebook. Bar/Pie/Scatter/Box plots. Correlation, Mean, median and std etc
+
+Data source is 
+
+https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
 
 ## Contributing
 Contributors names: Mamatha Etikyala
